@@ -1,5 +1,30 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="PancakeFinder.Views.PancakePage">
-    <ContentPage.Content>
-    </ContentPage.Content>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:panake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             x:Class="PancakeFinder.Views.PancakePage">
+
+    
+
+   <Grid BackgroundColor="{x:StaticResource Primary}"
+         RowSpacing="0"
+         ColumnSpacing="5"
+         Padding="5">
+
+       <Grid.RowDefinitions>
+           <RowDefinition Height="*"/>
+           <RowDefinition Height="Auto" />
+           <RowDefinition Height="Auto" />
+       </Grid.RowDefinitions>
+
+       <Grid.ColumnDefinitions>
+           <ColumnDefinition Width="*" />
+           <ColumnDefinition Width="*" />
+       </Grid.ColumnDefinitions>
+
+       <Button Grid.ColumnSpan="2"
+               Grid.Row="2"
+               Text="Search!"
+               Style="{x:StaticResource ButtonStyle}"/>
+   </Grid>
 </ContentPage>
