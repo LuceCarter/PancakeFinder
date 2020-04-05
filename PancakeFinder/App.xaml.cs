@@ -1,4 +1,5 @@
 ﻿using System;
+using PancakeFinder.Views;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -10,7 +11,7 @@ namespace PancakeFinder
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new PancakePage();
         }
 
         protected override void OnStart()
