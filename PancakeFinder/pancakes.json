@@ -1,0 +1,188 @@
+﻿[
+  {
+    "name": "Crêpes",
+    "origin": "FR",
+    "description": "French Crêpes are well known and are officially made in a crêpe pan to form a thin pancake. Made from flour, milk and eggs, and can be served sweet or savoury. The key to getting it right? Keep your French Crêpes super thin for a light-as-air treat.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/crepes.png"
+  },
+  {
+    "name": "American-Style",
+    "origin": "US",
+    "description": "The American-style pancakes differ from our thin variations. The American pancake recipe uses a rising agent like baking powder to form much thicker, fluffier pancakes. These are best served with maple syrup and bacon for breakfast, or as a dessert with fruit, cream or yoghurt.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/uspancakes.png"
+  },
+  {
+    "name": "Scotch",
+    "origin": "GB",
+    "description": "Similar to American pancakes, Scotch pancakes (also known as drop scones) are made with flour, eggs, sugar, milk, salt and cream of tartar. They are made much smaller than a typical pancake and are often served with jam or cream as a snack.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/scotch.png"
+  },
+  {
+    "name": "Serabi",
+    "origin": "ID",
+    "description": "Made with rice flour and coconut milk and distinctively only cooked on one side, most Serabi are eaten sweet, but can be paired with cheese and meat for a savoury snack. This different type of pancake is enjoyed throughout Southeast Asia, and some recipes add pandan leaf juice to form a green hue.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/serabi.png"
+  },
+  {
+    "name": "Blinis",
+    "origin": "RU",
+    "description": "Russian blinis, or buckwheat pancakes, are yeasted pancakes traditionally made from buckwheat flour and served savoury with sour cream or caviar. Think of them as the party type of pancake.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/blinis.png"
+  },
+  {
+    "name": "Msemen",
+    "origin": "MA",
+    "description": "Taking a departure from the traditional types of pancake, Moroccan Msemens are square-shaped variations made from wheat flour and semolina. They are traditionally served savoury with meats and meals.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/msemen.png"
+  },
+  {
+    "name": "Æbleskiver",
+    "origin": "DK",
+    "description": "Sticking with pancakes that don’t conform to the norm, Danish Æbleskiver are served hot, fluffy and spherical! Made in a special frying pan with deep holes for each pancake, they are then consumed like doughnuts – dipped in jam and sprinkled in sugar.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/aebleskiver.png"
+  },
+  {
+    "name": "Boxty",
+    "origin": "IE",
+    "description": "Made with egg, flour, milk, butter and potato, Irish Boxtys (or potato pancakes) are a kind of pancake-hash brown hybrid. This type of pancake is best served as a savoury snack or as part of a delicious meal.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/boxty.png"
+  },
+  {
+    "name": "Jeon",
+    "origin": "KR",
+    "description": "A savoury take on the pancake, the Jeon is made from eggs, wheat flour, rice and green onions. Differing from many pancakes that are then topped or used as a wrap, the Korean Jeon combines fish, meat or vegetables with the mixture so that the ingredients are cooked within, making it a meal in itself.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/jeon.png"
+  },
+  {
+    "name": "Crespelle",
+    "origin": "IT",
+    "description": "The Italian take is a different type of pancake that is similar to that of the French crêpe. Made from eggs, milk and chestnut flour, it forms a thin pancake best served savoury with meat or cheese.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/crespelle.png"
+  },
+  {
+    "name": "Pikelet",
+    "origin": "AU",
+    "description": "Made from milk, flour, eggs and a touch of icing sugar, the Australian Pikelet is a sort of blini-crumpet crossover. Pikelets are made small like a Scotch pancake and served with jam, cream or butter.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/pikelet.png"
+  },
+  {
+    "name": "Dutch Baby Pancake",
+    "origin": "GE",
+    "description": "Don’t be fooled by the name. The pinnacle of giant pancakes, the Dutch Baby Pancake more closely resembles a Yorkshire pudding. Made with eggs, flour, sugar, milk and seasoned with cinnamon or vanilla, they are mainly served sweet. The biggest difference to other types of pancakes around the world – they are actually baked in a cast iron pan, which helps to form their shape.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/baby.png"
+  },
+  {
+    "name": "Raggmunk",
+    "origin": "SE",
+    "description": "Similar to the Boxty, Swedish Raggmunks are made with milk, eggs, wheat flour and grated potato. Once fried, they are often served up savoury with meat or as part of a meal.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/raggmunk.png"
+  },
+  {
+    "name": "Poffertjes",
+    "origin": "NL",
+    "description": "Made with yeast and buckwheat, Dutch Poffertjes have a light, spongy texture. Served sweet with cream and a dusting of sugar, they closely resemble their Danish counterpart in that they have to be cooked in a special pan to achieve their unique shape.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/poffertjes.png"
+  },
+  {
+    "name": "Pannukakka",
+    "origin": "FI",
+    "description": "A sweet, baked variation made of eggs, milk, sugar, flour and vanilla, the Finnish Pannakakku forms a thick pancake that is crisp on the top and soft in the middle. It’s best served sweet with cream, jam or fruit.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/pannukakka.png"
+  },
+  {
+    "name": "Palatschinken",
+    "origin": "AT",
+    "description": "Central European Palatschinken are thin pancakes similar to the French crêpe. The main difference between the French and Central European version of the dish is that the mixture for Palatschinken can be used straight away unlike that of crepes which is suggested to be left at rest for several hours. Palatschinken can be served sweet and savoury.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/palatschinken.png"
+  },
+  {
+    "name": "Sufurepankēki",
+    "origin": "JP",
+    "description": "Order pancakes in Tokyo and you'll probably be greeted with this super fluffy and thick version. Made with buttermilk and meringue, they're almost like a breakfast soufflé.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/japanesefluffy.png"
+  },
+  {
+    "name": "Cong You Bing",
+    "origin": "CN",
+    "description": "You've probably tried these savory pancakes as an appetizer at your favorite Chinese restaurant. But you might be surprised to learn you can make them at home with just four ingredients (plus water and salt).",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/congyoubing.png"
+  },
+  {
+    "name": "Farinata",
+    "origin": "IT",
+    "description": "These Italian chickpea pancakes (also known as cecina) are a typical dish from the Ligurian Coast. It's typically cooked in a wood oven like pizza, but you can easily make it at home in a skillet.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/farinata.png"
+  },
+  {
+    "name": "Dosas",
+    "origin": "IN",
+    "description": "A staple of most Indian diets, these thin, crispy pancake-esque bites looks a lot like French crepes, but they're entirely different. Dosas are made with rice and black gram and are usually served with stew or chutney.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/dosas.png"
+  },
+  {
+    "name": "Jian Bing",
+    "origin": "CN",
+    "description": "Similar to pancakes, Jian Bing is a popular street food that you'll find around breakfast time in China. They're thin crepe-like creations that are topped with fried egg, scallion, and spices and folded in half.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/jianbing.png"
+  },
+  {
+    "name": "Latkes",
+    "origin": "PL",
+    "description": "Also known as Latkes, these fried potato pancakes are a common food in Poland and the rest of Eastern Europe. They're usually accompanied by apple sauce or sour cream for dipping.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/latkes.png"
+  },
+  {
+    "name": "Palacsinta",
+    "origin": "HU",
+    "description": "These crepe-like treats are a popular dish around Central and Eastern Europe where you'll often find them garnished with apricot jam, walnuts, or cottage cheese.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/palacsinta.png"
+  },
+  {
+    "name": "Arepas",
+    "origin": "VE",
+    "description": "Made with masa (corn flour), this staple of Venezuelan and South American cooking is similar to pancakes, but it's used in place of sandwich bread and filled with anything from shredded chicken and cheese to refried beans and roast pork.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/arepas.png"
+  },
+  {
+    "name": "Baghrir",
+    "origin": "MO",
+    "description": "Popular in North Africa, these semolina flour pancakes are spongy and delicious. They're only cooked on one side (rather than American pancakes, which are flipped), and as a result they're dotted with tiny air bubbles.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/baghrir.png"
+  },
+  {
+    "name": "Okonomiyaki",
+    "origin": "JP",
+    "description": "This pancake-like recipe called Okonomiyaki translates to \"how you like it.\". It's made with eggs, Chinese yam, and shredded cabbage, but you'll find these savory pancakes topped with a variety of vegetables, proteins, and sauces.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/okonomiyaki.png"
+  },
+  {
+    "name": "Kabalagala",
+    "origin": "UG",
+    "description": "Kabalagala, or kabs, are mini banana pancakes. These sweet little guys call for nothing more than ripe bananas or plantains and tapioca flour.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/kabalagala.png"
+  },
+  {
+    "name": "Tiganites",
+    "origin": "GR",
+    "description": "Thought to be the O.G. of the pancake world, tiganites don’t use milk or eggs. These fluffy medallions are usually served with honey, walnuts, and cinnamon.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/tiganites.png"
+  },
+  {
+    "name": "Injera",
+    "origin": "ET",
+    "description": "This Ethiopian staple is made with teff, a nutritious East African grain. Injera batter, which is fermented before cooking, makes a remarkably spongey pancake.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/injera.png"
+  },
+  {
+    "name": "Apim Balik",
+    "origin": "MY",
+    "description": "Walk through street vendors in the early morning to get a taste of these lovely peanut-stuffed pancakes. These rice flour pancakes come in thick and thin versions, and are pan fried and then folded over with ground roasted peanuts tucked neatly inside, but other fillings like corn, bananas, sweetened dried coconut, and sugar are all available. It’s easy to pick out this dish from the rest, because they’re usually served standing up!",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/apimbalik.png"
+  },
+  {
+    "name": "Pönnukaka",
+    "origin": "IS",
+    "description": "Crepe-like. Cooked in a special Icelandic pancake pan.",
+    "imageUrl": "https://raw.githubusercontent.com/sthewissen/PancAPI/master/images/ponnukaka.png"
+  }
+]
