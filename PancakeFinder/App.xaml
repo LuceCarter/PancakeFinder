@@ -1,13 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Application xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:d="http://xamarin.com/schemas/2014/forms/design" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="PancakeFinder.App">
+<Application xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design" 
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             mc:Ignorable="d"
+             xmlns:pancakes="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             x:Class="PancakeFinder.App">
     <Application.Resources>
         <ResourceDictionary>
-            <Color x:Key="Primary">#fec051</Color>
-            <Color x:Key="Secondary">#ff8967</Color>
+            <Color x:Key="Sunset1">#2b1d41</Color>
+            <Color x:Key="Sunset2">#05668D</Color>
+            <Color x:Key="Sunset3">#c33c54</Color>
+            <Color x:Key="Sunset4">#37718E </Color>
+            <Color x:Key="Sunset5">#9f9aa4</Color>
+
+            <pancakes:GradientStopCollection x:Key="Sunset">
+                <pancakes:GradientStop Color="#2b1d42" Offset="0" />
+                <pancakes:GradientStop Color="#f3b88d" Offset="0.2" />
+                <pancakes:GradientStop Color="#8f3d4b" Offset="0.4" />
+                <pancakes:GradientStop Color="#f3b99d" Offset="0.6" />
+                <pancakes:GradientStop Color="#fceccb" Offset="0.8" />
+                <pancakes:GradientStop Color="#ffc9a3" Offset="1" />
+            </pancakes:GradientStopCollection>
+
             <Style x:Key="ButtonStyle" TargetType="Button">
-                <Setter Property="BackgroundColor" Value="{StaticResource Secondary}" />
+                <Setter Property="BackgroundColor" Value="{StaticResource Sunset4}" />
                 <Setter Property="TextColor" Value="White" />
                 <Setter Property="CornerRadius" Value="20" />
+                <Setter Property="FontFamily" Value="FiraCode" />
             </Style>
         </ResourceDictionary>
     </Application.Resources>

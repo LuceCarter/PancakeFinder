@@ -25,9 +25,11 @@
     <Folder Include="Resources\Fonts\" />
   </ItemGroup>
   <ItemGroup>
+    <None Remove="pancakes.json" />
     <None Remove="Resources\Fonts\FiraCode-Regular.ttf" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="pancakes.json" />
     <EmbeddedResource Include="Resources\Fonts\FiraCode-Regular.ttf" />
   </ItemGroup>
 </Project>

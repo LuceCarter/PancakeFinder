@@ -7,13 +7,13 @@ namespace PancakeFinder.Models
 {
     public partial class Pancake
     {        
-        public string Name { get; set; }
+        public string name { get; set; }
         
-        public string Origin { get; set; }
+        public string origin { get; set; }
         
-        public string Description { get; set; }
+        public string description { get; set; }
        
-        public Uri ImageUrl { get; set; }
+        public Uri imageUrl { get; set; }
     }
 
     public partial class Pancake
