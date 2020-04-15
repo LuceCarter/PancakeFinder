@@ -41,19 +41,23 @@
 
             <CollectionView.ItemTemplate>
                 <DataTemplate>
-                    <pancake:PancakeView CornerRadius="28">
-                        <StackLayout HorizontalOptions="Center">
+                    <pancake:PancakeView CornerRadius="10">
+                        <Grid>
                             <Image Source="{Binding imageUrl}"
-                                   HorizontalOptions="Center" />
-
-                            <Label Text="{Binding name}"
-                                   TextColor="{StaticResource Sunset4}"
-                                   HorizontalOptions="Center"/>
-
-                            <Label Text="{Binding origin}"
-                                   TextColor="White"
-                                   HorizontalOptions="Center"/>
-                        </StackLayout>
+                                   Aspect="AspectFill" />
+                            <Grid VerticalOptions="End">
+                                <BoxView Opacity="0.75"
+                                         HeightRequest="10"
+                                         BackgroundColor="DarkGray" />
+                               
+                                <Label Text="{Binding name}"
+                                       VerticalOptions="End"
+                                       FontSize="Small"
+                                       TextColor="{StaticResource Sunset1}"
+                                       Padding="5,0,0,0"
+                                       />
+                            </Grid>
+                        </Grid>
                     </pancake:PancakeView>
                 </DataTemplate>
             </CollectionView.ItemTemplate>
@@ -67,10 +71,12 @@
             <Grid.ColumnDefinitions>
                 <ColumnDefinition Width="Auto" />
                 <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
             </Grid.ColumnDefinitions>
             
             <Button Grid.Row="0"
-                    Grid.Column="0"
+                    Grid.Column="1"
                     Text="Search!"
                     BackgroundColor="{StaticResource Sunset3}"
                     TextColor="White"
@@ -79,7 +85,7 @@
 
             <Button Grid.Row="0"
                     Padding="2"
-                    Grid.Column="1"                    
+                    Grid.Column="2"                    
                     Text="Feed me!"
                     TextColor="White"
                     BackgroundColor="{StaticResource Sunset2}"
